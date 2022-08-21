@@ -1,7 +1,5 @@
 ## Spotlify
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 A mobile-responsive application to display new releases and featured playlists from Spotify.
 
 ## Technologies
@@ -30,4 +28,4 @@ $ npm build
 
 ## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
