@@ -20,11 +20,14 @@ $ npm i
 $ npm start
 ```
 
+Then, create your `.env` file from `.env.example` and add your `CLIENT_ID` and `CLIENT_SECRET` to start consuming Spotify's Web API.
+
 To generate a build folder, you can run the following.
 
 ```bash
 $ npm build
 ```
+
 ## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
