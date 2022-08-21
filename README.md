@@ -23,9 +23,10 @@ Then, create your `.env` file from `.env.example` and add your `CLIENT_ID` and `
 To generate a build folder, you can run the following.
 
 ```bash
-$ npm build
+$ npm run build
 ```
 
 ## Learn More
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
